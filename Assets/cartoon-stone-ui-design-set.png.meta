@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: a58e1f45561011140a63c6ec7d803999
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7506999272865884947
+    second: cartoon-stone-ui-design-set_0
+  - first:
+      213: 7340458254341453050
+    second: cartoon-stone-ui-design-set_1
+  - first:
+      213: -3537784018903829393
+    second: cartoon-stone-ui-design-set_2
+  - first:
+      213: -1245015733467834858
+    second: cartoon-stone-ui-design-set_3
+  - first:
+      213: -1651427251178081774
+    second: cartoon-stone-ui-design-set_4
+  - first:
+      213: -8489704548830369324
+    second: cartoon-stone-ui-design-set_5
+  - first:
+      213: 4943210833278239056
+    second: cartoon-stone-ui-design-set_6
+  - first:
+      213: 5012372423789018259
+    second: cartoon-stone-ui-design-set_7
+  - first:
+      213: 1756733945544689413
+    second: cartoon-stone-ui-design-set_8
+  - first:
+      213: 7104203628671063503
+    second: cartoon-stone-ui-design-set_9
+  - first:
+      213: 3057210417428717200
+    second: cartoon-stone-ui-design-set_10
+  - first:
+      213: -1661554994768120168
+    second: cartoon-stone-ui-design-set_11
+  - first:
+      213: 7958675323325574883
+    second: cartoon-stone-ui-design-set_12
+  - first:
+      213: -993314840126457636
+    second: cartoon-stone-ui-design-set_13
+  - first:
+      213: 4255050898266053257
+    second: cartoon-stone-ui-design-set_14
+  - first:
+      213: 2567833429235400104
+    second: cartoon-stone-ui-design-set_15
+  - first:
+      213: 1430297225714838345
+    second: cartoon-stone-ui-design-set_16
+  - first:
+      213: -4696947242379126295
+    second: cartoon-stone-ui-design-set_17
+  - first:
+      213: -4530091755654273934
+    second: cartoon-stone-ui-design-set_18
+  - first:
+      213: -4096001383284792762
+    second: cartoon-stone-ui-design-set_19
+  - first:
+      213: 3603539134960398788
+    second: cartoon-stone-ui-design-set_20
+  - first:
+      213: -1021959456475577989
+    second: cartoon-stone-ui-design-set_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 843
+        width: 525
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b694c90183e2860800000000000000
+      internalID: 7506999272865884947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_1
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 726
+        width: 734
+        height: 201
+      alignment: 9
+      pivot: {x: 0.52266103, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af43b9214eb8ed560800000000000000
+      internalID: 7340458254341453050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_2
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 798
+        width: 514
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64fe25cd2447eec0800000000000000
+      internalID: -3537784018903829393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 575
+        width: 538
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61690ea69c0d8bee0800000000000000
+      internalID: -1245015733467834858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 73
+        width: 846
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21271292aa3f419e0800000000000000
+      internalID: -1651427251178081774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_5
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 319
+        width: 388
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9a2f671b28e2a80800000000000000
+      internalID: -8489704548830369324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 534
+        width: 349
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05189670010d99440800000000000000
+      internalID: 4943210833278239056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 310
+        width: 253
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c78e9a9268f8540800000000000000
+      internalID: 5012372423789018259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 451
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507cf05473c216810800000000000000
+      internalID: 1756733945544689413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 385
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5daf28f83379260800000000000000
+      internalID: 7104203628671063503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 375
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e56764da46d6a20800000000000000
+      internalID: 3057210417428717200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f11a1988f0f8e0800000000000000
+      internalID: -1661554994768120168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 186
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eeec792a05e27e60800000000000000
+      internalID: 7958675323325574883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 182
+        width: 210
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8732c6a690732f0800000000000000
+      internalID: -993314840126457636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 230
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ada5c6f3afc0b30800000000000000
+      internalID: 4255050898266053257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_15
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 232
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf2ff16e6c2a320800000000000000
+      internalID: 2567833429235400104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_16
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 236
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba5fdafbf69d310800000000000000
+      internalID: 1430297225714838345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_17
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 232
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9dd395e5711deb0800000000000000
+      internalID: -4696947242379126295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 72
+        width: 163
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2742d48bc81e121c0800000000000000
+      internalID: -4530091755654273934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 73
+        width: 163
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422dc581741827c0800000000000000
+      internalID: -4096001383284792762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_20
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 74
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1788930c7520230800000000000000
+      internalID: 3603539134960398788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-stone-ui-design-set_21
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 79
+        width: 381
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710ce5f94541d1f0800000000000000
+      internalID: -1021959456475577989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0e4105825bf4d9a489bc2f648c666403
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      cartoon-stone-ui-design-set_0: 7506999272865884947
+      cartoon-stone-ui-design-set_1: 7340458254341453050
+      cartoon-stone-ui-design-set_10: 3057210417428717200
+      cartoon-stone-ui-design-set_11: -1661554994768120168
+      cartoon-stone-ui-design-set_12: 7958675323325574883
+      cartoon-stone-ui-design-set_13: -993314840126457636
+      cartoon-stone-ui-design-set_14: 4255050898266053257
+      cartoon-stone-ui-design-set_15: 2567833429235400104
+      cartoon-stone-ui-design-set_16: 1430297225714838345
+      cartoon-stone-ui-design-set_17: -4696947242379126295
+      cartoon-stone-ui-design-set_18: -4530091755654273934
+      cartoon-stone-ui-design-set_19: -4096001383284792762
+      cartoon-stone-ui-design-set_2: -3537784018903829393
+      cartoon-stone-ui-design-set_20: 3603539134960398788
+      cartoon-stone-ui-design-set_21: -1021959456475577989
+      cartoon-stone-ui-design-set_3: -1245015733467834858
+      cartoon-stone-ui-design-set_4: -1651427251178081774
+      cartoon-stone-ui-design-set_5: -8489704548830369324
+      cartoon-stone-ui-design-set_6: 4943210833278239056
+      cartoon-stone-ui-design-set_7: 5012372423789018259
+      cartoon-stone-ui-design-set_8: 1756733945544689413
+      cartoon-stone-ui-design-set_9: 7104203628671063503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
